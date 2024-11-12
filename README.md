@@ -1,7 +1,7 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
 
-## NAME: DHARSHAN D
-## REGISTER NUMBER: 212223230045
+## NAME: RAHUL V
+## REGISTER NUMBER: 212223240133
 ## AIM:
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 
